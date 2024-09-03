@@ -1,0 +1,10 @@
+Factura No: 20240904
+Cliente: jyj
+Fecha: 2024-09-02 20:23:21
+Cancha: Cancha 1 (10 jugadores)
+Precio: ₡5 000,00
+Fecha de la reserva: 3/9/2024
+Hora de la reserva: 20:23
+Acompañantes: 1
+Detalles:
+ - ListViewItem: {yj}

@@ -1,0 +1,6 @@
+Factura No: 001
+Cliente: Nunguno
+Fecha: 2024-09-02 16:42:16
+Total: ₡0,00
+Detalles:
+Detalle de la factura

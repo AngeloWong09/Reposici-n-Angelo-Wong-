@@ -1,0 +1,7 @@
+Factura para: fdf
+Cancha: Cancha 1 (10 jugadores)
+Precio: ₡5 000,00
+Acompañantes: 1
+ - dsvvxd ()
+Fecha de la reserva: 3/9/2024
+Hora de la reserva: 17:56

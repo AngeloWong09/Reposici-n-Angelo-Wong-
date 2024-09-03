@@ -1,0 +1,10 @@
+Factura No: 002
+Cliente: hhh
+Fecha: 2024-09-02 17:15:06
+Cancha: Cancha 1 (10 jugadores)
+Precio: ₡5 000,00
+Fecha de la reserva: 11/9/2024
+Hora de la reserva: 18:14
+Acompañantes: 1
+Detalles:
+ - ListViewItem: {fgf}

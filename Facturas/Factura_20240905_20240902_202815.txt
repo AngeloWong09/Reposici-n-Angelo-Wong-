@@ -1,0 +1,10 @@
+Factura No: 20240905
+Cliente: thfh
+Fecha: 2024-09-02 20:28:15
+Cancha: Cancha 1 (10 jugadores)
+Precio: ₡5 000,00
+Fecha de la reserva: 2/9/2024
+Hora de la reserva: 20:27
+Acompañantes: 1
+Detalles:
+ - ListViewItem: {hgh}

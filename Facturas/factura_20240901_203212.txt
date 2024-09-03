@@ -1,0 +1,15 @@
+Factura para: Marta
+Cancha: Cancha 1 (10 jugadores)
+Precio: ₡5 000,00
+Acompañantes: 10
+ - Pipi ()
+ - edgf ()
+ - dff ()
+ - df ()
+ - df ()
+ - df ()
+ - df ()
+ - dfd ()
+ - fdf ()
+ - df ()
+Fecha de la reserva: 19/9/2024

@@ -1,0 +1,9 @@
+Factura No: 001
+Cliente: fg
+Fecha de la reserva: 3/9/2024
+Hora de la reserva: 19:46
+Cancha: Cancha 1 (10 jugadores)
+Total: ₡5 000,00
+Detalle de la factura:
+ - ListViewItem: {fg}
+

@@ -1,0 +1,3 @@
+Factura No: 20240903
+Cliente: 
+Fecha: 2024-09-02 20:21:24

@@ -1,0 +1,10 @@
+Factura No: 20240908
+Cliente: 6, Laura Martínez, 67890123
+Fecha: 2024-09-02 22:18:57
+Cancha: Cancha 1 (10 jugadores)
+Precio: ₡5 000,00
+Fecha de la reserva: 9/7/2024
+Hora de la reserva: 00:18
+Acompañantes: 1
+Detalles:
+ - ListViewItem: {tht}
